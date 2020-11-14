@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001768646183",
+    "firebase_url": "https://hacktheverse.firebaseio.com",
+    "project_id": "hacktheverse",
+    "storage_bucket": "hacktheverse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001768646183:android:4bd1e453d9ad3dee774002",
+        "android_client_info": {
+          "package_name": "com.engliplan.telelabclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001768646183-rtq2tva5rr114ne3vfo90vfiubi8ausv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engliplan.telelabclient",
+            "certificate_hash": "3da064f0ecb730c33fef623545493bafc3f12085"
+          }
+        },
+        {
+          "client_id": "1001768646183-0khrv10haj8jid8ep4qu6qabvobbcrgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJWONVACZqMHPUo7Z-uat-GRdeZQNsevM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001768646183-0khrv10haj8jid8ep4qu6qabvobbcrgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
