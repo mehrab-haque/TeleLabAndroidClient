@@ -25,7 +25,7 @@ public class Client {
 
             @Override
             public void onCancelled(@NonNull DatabaseError databaseError) {
-                updateOnCommandReceievdListeners(databaseError.getMessage());
+                errorOnCommandRecievedListeners(databaseError.getMessage());
             }
         });
     }
